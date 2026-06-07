@@ -30,8 +30,4 @@ For the full log reading experience, install both extensions:
 
 Install this repository with `zed: install dev extension`, then select `Log Observer Dark` or `Log Observer Light` from the theme picker.
 
-To test the highlighted log captures locally, also install the language repository with `zed: install dev extension`:
-
-```text
-/Users/anux/repos/zed_plugins/log-observer
-```
+To test the highlighted log captures locally, also install the companion language repository with `zed: install dev extension`.
