@@ -2,7 +2,9 @@
 
 Dark and light Zed themes optimized for reading structured application logs.
 
-![Log Observer preview](assets/log-observer-preview.svg)
+![Log Observer Dark preview](assets/log-observer-preview-dark.png)
+
+![Log Observer Light preview](assets/log-observer-preview-light.png)
 
 ## Companion Language Extension
 
