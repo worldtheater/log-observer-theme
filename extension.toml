@@ -1,0 +1,7 @@
+id = "log-observer-theme"
+name = "Log Observer Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["anux"]
+description = "Dark and light themes optimized for reading structured logs."
+repository = "https://github.com/worldtheater/log-observer-theme"
